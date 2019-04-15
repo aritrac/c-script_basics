@@ -207,6 +207,10 @@ GameObject:
   - component: {fileID: 1204370942}
   - component: {fileID: 1204370945}
   - component: {fileID: 1204370946}
+  - component: {fileID: 1204370947}
+  - component: {fileID: 1204370948}
+  - component: {fileID: 1204370949}
+  - component: {fileID: 1204370950}
   m_Layer: 0
   m_Name: GameObject
   m_TagString: Untagged
@@ -271,8 +275,56 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1204370941}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a326fa08a615d7146aa43809adc1d045, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1204370947
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1204370941}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 153f348e7b1a0544c82566f44739b3c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1204370948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1204370941}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 192bbe8cfa48b7b4fa2a944282dcc6a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1204370949
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1204370941}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c22ebf21d7be424e88bb9063ea15157, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1204370950
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1204370941}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca885266cbe669740a69947c0817ea21, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
